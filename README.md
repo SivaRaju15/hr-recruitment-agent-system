@@ -1,6 +1,4 @@
 # hr-recruitment-agent-system
-# HR Recruitment Agent System
-
 ## Overview
 This project is an end-to-end AI-powered HR recruitment pipeline built using LangGraph.
 
